@@ -41,4 +41,4 @@ This project is a clone of Netflix's landing page, designed to be responsive and
 5. Open a pull request
 
 ## Contact 
-Sujit Kumar - 
+Sujit Kumar - <a href = "https://github.com/sujitkumar-13/Netlify" alt ="github profile">Github Profile</a>
